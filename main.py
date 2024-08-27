@@ -90,7 +90,7 @@ Oyunlar = """
 """
 
 #-------------------------------------------------------------------#
-API_ID = 7305205222
+API_ID = 28121536
 API_HASH = "57d552d05f2a76244291d9eb330294c2"
 BOT_TOKEN = "7282714112:AAFPB0W1s2Ej8W9MZlBRNWmEsMNluLbltxc"
 

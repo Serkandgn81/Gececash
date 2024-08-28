@@ -96,7 +96,9 @@ BOT_TOKEN = "7282714112:AAFPB0W1s2Ej8W9MZlBRNWmEsMNluLbltxc"
 
 #-------------------------------------------------------------------#
 
-mongo_client = MongoClient("mongodb+srv://mongoguess:guessmongo@cluster0.zcwklzz.mongodb.net/?retryWrites=true&w=majority")
+mongo_client = MongoClient("mongodb+srv://erkbwrs084:909090@cluster0.qdrfgmb.mongodb.net/?retryWrites=true&w=majority")
+")
+db = 
 db = mongo_client["slot_bot_db"]
 balances_collection = db["balances"]
 richest_collection = db["richest"]
